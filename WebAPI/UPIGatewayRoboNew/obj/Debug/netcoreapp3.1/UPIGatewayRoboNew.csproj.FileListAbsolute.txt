@@ -1,0 +1,6 @@
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.csproj.AssemblyReference.cache
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.AssemblyInfoInputs.cache
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.AssemblyInfo.cs
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.csproj.CoreCompileInputs.cache
+C:\Users\Roundpay Developer\Desktop\AllTimeWin_Live\Onion\UPIGatewayRoboNew\UPIGatewayRoboNew\obj\Debug\netcoreapp3.1\UPIGatewayRoboNew.MvcApplicationPartsAssemblyInfo.cache
